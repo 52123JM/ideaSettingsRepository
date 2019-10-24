@@ -1,10 +1,12 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/8a4ed387_web-app_2_5.xsd" />
     <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/b36fadae_mybatis-3-mapper.dtd" />
     <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
     <resource url="http://www.springframework.org/schema/context" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/a93b54e7_spring-context.xsd" />
     <resource url="http://www.springframework.org/schema/mvc" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/f7d22907_spring-mvc.xsd" />
     <resource url="http://www.springframework.org/schema/tx/spring-tx-4.0.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/5701c47a_spring-tx-4.0.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/9b192256_xml.xsd" />
     <resource url="https://www.springframework.org/schema/beans/spring-beans-4.0.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/38d1b0f3_spring-beans-4.0.xsd" />
     <resource url="https://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/38fbf776_spring-beans-4.3.xsd" />
     <resource url="https://www.springframework.org/schema/tool/spring-tool-4.0.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.2/extResources/938d5385_spring-tool-4.0.xsd" />
